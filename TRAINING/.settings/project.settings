@@ -115,7 +115,7 @@
         "show" : true,
         "field" : "CLOSED_LIST",
         "name" : "DB_VERSION",
-        "value" : "MYSQL_5",
+        "value" : "MYSQL_8",
         "contextMode" : false
       }, {
         "show" : true,
@@ -180,7 +180,7 @@
         "show" : true,
         "field" : "PASSWORD",
         "name" : "PASS",
-        "value" : "enc:system.encryption.key.v1:k90OGAHvWradEjyJ+jVYTcApNOpmQIr6/L+A6HmRb9UpgmOJVGTn",
+        "value" : "enc:system.encryption.key.v1:fse6Vv+E01N+bHUurukLBsJlIsEHFz2WxfXCO3f+4Dlt2ycq7UPB",
         "contextMode" : false
       }, {
         "show" : true,
